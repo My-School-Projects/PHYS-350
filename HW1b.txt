@@ -1,0 +1,34 @@
+Conceptual Questions
+11
+(a) In adding scalars, is 1m + 1m necessarily equal to 2m?
+  Yes.
+(b) In adding two vectors, each of magnitude 1m, does the resultant
+necessarily have a magnitude of 2m? Explain your reasoning in each case.
+  No. Only if both vectors have the same direction. In all other cases,
+  the resultant magnitude will be less than the sum of the two component magnitudes.
+
+12 Is it possible for the magnitude of a vector (a) to be smaller than the magnitude
+of any of its components or (b) to be equal to the magnitude of one of its components?
+(a)
+  No. The magnitude of a vector can never be greater than the sum of its components'
+  magnitudes, or less than the magnitude of it's largest component.
+(b)
+  Yes. If one of its components has a magnitude of 0, a vector's magnitude will be
+  equal to the magnitude of its other component.
+
+13
+(a) Does it make sense to say that a vector is negative? Why?
+  Yes. Vectors always have positive magnitudes, but their angles can be negative.
+  A negative angle has the same magnitude as its positive counterpart, but it has the
+  opposite direction.
+(b) Does it make sense to say that one vector is the negative of another? Why?
+Does your answer here contradict what you said in part (a)?
+  Yes. A vector is the opposite of another if it shares the same magnitude, but has
+  the opposite direction.
+
+Multiple Choice
+3 A
+5 A
+6 D
+9 B
+10 D
