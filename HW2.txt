@@ -1,0 +1,80 @@
+Conceptual Questions
+
+1) A jogger runs due east along a straight jogging trail that is 2km long.
+When she reaches the end of the path, she turns around and runs back to
+the west toward her initial starting point. In which direction does her
+displacement point after she has run a total distance of 3km.
+  West
+
+2) Give an example or two in which the magnitude of the displacement of
+a moving object is (a) equal to the distance the object travels and
+(b) less than the distance the object travels. (c) Can the magnitude of
+the displacement ever be greater than the distance the object travels?
+(a)
+  An object moves along a straight path.
+(b)
+  An object moves along a straight path, then moves in the opposite direction.
+(c)
+  No.
+
+3) Under what conditions is average velocity equal to instantaneous velocity?
+  When no acceleration occurs
+
+5) True or false? (a) If an object's average speed is zero, its average velocity
+must also be zero. (b) If an object's average velocity is zero, its average speed
+must also be zero. Explain the reasoning behind your answers. If the statement
+is false, give several examples to show that it is false.
+(a)
+  Yes. If an object's average speed is zero, it must not move, and therefore
+  it will stay in the same place and the average velocity will be zero.
+(b)
+  No. If an object's average velocity is zero, that just means that it returned
+  to the same point within the measured timeframe. It may have stayed there the
+  whole time, or it may have traveled to the moon and back before returning to its
+  original location. Its average speed could be anywhere between 0 and the speed
+  of light.
+
+7) A wind-up toy car is released from rest. It accelerates at up to a maximum
+speed over the first 2m it travels before slowing back down to a stop over the
+next 5m. If the car travels in the positive direction of its acceleration over
+the first 2m it travels before slowing back down to a stop over the next 5m.
+If the car travels in the positive direction, what is the direction of its
+acceleration (a) over the first 2m and (b) over the last 5m? (c) Over which
+distance is the magnitude of the acceleration greater?
+(a)
+  Positive
+(b)
+  Negative
+(c)
+  The first 2m.
+
+14) Figure 2.33 shows the graph of an object's position x as a function of time t.
+(a) Does this object ever reverse its direction of motion? If so, where?
+  Yes. At the point at which the arc descends, the position x is decreasing, and
+  therefore the object is moving in the reverse direction.
+(b) Does the object ever return to its starting point?
+  Yes. At the furthest right point on the arc, it is back where it started.
+(c) Is the velocity of the object constant?
+  No. The velocity decreases, then reverses.
+(d) Is the object's speed ever zero? If so, where?
+  Yes. At the maximum point on the graph.
+(e) Does the object have any acceleration?
+  Yes. It has a constant (or near constant) acceleration in the negative x direction.
+
+15) Figure 2.34 shows the graph of an object's velocity Vx as a function of time t.
+(a) Does this object ever reverse its direction of motion?
+  No.
+(b) Does the object ever return to its starting point?
+  No.
+(c) Is the object's speed ever zero? If so, where?
+  Yes. At the leftmost and rightmost points on the arc.
+
+Multiple Choice
+
+1) C, D
+2) C
+3) C
+5) C
+7) A
+9) C
+11) B, D
