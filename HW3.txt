@@ -1,0 +1,24 @@
+Conceptual Questions
+
+3) A football is thrown in a parabolic path. Is there any point at which the acceleration is parallel to the velocity? Perpendicular to the velocity?
+  No, the acceleration is never parallel to the velocity. The acceleration is always straight down, and the football will never be going straight down.
+  Yes, The acceleration is perpendicular to the velocity at the very top of the arc.
+
+4) If an athlete can give himself the same initial speed regardless of the direction in which he jumps, how is his maximum vertical jump (high jump) related to his maximum horizontal jump (long jump)?
+  His high jump goes higher than his long jump, and his long jump goes further than his high jump.
+
+6) A projectile is fired at an angle above the horizontal from the edge of a vertical cliff. (a) Is its velocity ever only horizontal? If so, when? (b) Is its velocity ever only vertical? If so, why?
+  (a) Yes, at the top of its arc the arrow's velocity is perfectly horizontal.
+  (b) No. While the Y component of its velocity will change over time due to gravity, its X component will always remain the same.
+
+11) You attach a weight to the end of a string of length L and twirl the weight in a horizontal circle. You find that when you twirl the weight at speed v, the string breaks. What is the fastest speed at which you could twirl the string if you cut the string down to a length of (1/4)L? (Neglect the effects of gravity).
+  (1/2)v
+
+Multiple Choice
+
+1)  B: 5.0s
+3)  C: 0.50s
+5)  A: remain constant.
+9)  B: twice as great.
+11) D: Both rocks reach the ground at the same time.
+13) B: 2a.
