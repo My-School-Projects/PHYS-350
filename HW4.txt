@@ -1,0 +1,38 @@
+Michael Dorst
+
+Conceptual Questions
+
+1) The force is applied where the tires meet the road. The road exerts force on the car (via friction).
+
+2)
+(a) You feel pushed back into your seat because inertia is holding you still while the seat is accelerating into you. This feels identical to being pushed into the seat while the seat stays still, because in both cases both your body and the seat exert equal force on each other.
+(b)
+
+
+
+
+
+5) In a car accident between two vehicles of different sizes, both cars will exert the same amount of force on each other, but the larger car will have more inertia, making it harder to move. Therefore the smaller car will be accelerated more quickly, making the occupants of the car more likely to be injured.
+
+6) No. Your space gloves would probably make it pretty tricky to catch a flying bowling ball.
+In all seriousness though, it depends what aspects of the two throws we are comparing. If we consider two throws of equal distance and height, then yes it will be easier to catch the bowling ball on the moon, because less energy is needed to accelerate the ball along the flight path, and therefore less energy is required to decelerate it. However if we are considering two throws of equal exertion (both throws were thrown with the same amount of energy), then it will be exactly as hard to catch on both the earth and the moon (although the ball will have flown much further on the moon than on the earth).
+
+7) Assuming the "second" box is on top (it is not stated) and assuming the box was pushed in the positive X direction, the force exerted on the second box by the first box points in the positive X direction, and the force exerted on the first box by the second box was in the negative X direction.
+
+8) When you shake your hands, you are accelerating them quickly and repeatedly in opposite directions. When you shake your hands in one direction, the droplets of water will either stay where they are while your hands move away, or cling to your hand (via friction). Each time you switch directions more of the water is left behind, flying off in the direction that your hands were moving before they switched directions. Once there is only a very thin layer of water on your hands, the still air which rushes over your hands as they pass will catch water particles and push them off of your hands, "air drying" them.
+
+10) You have to push against something else. Usually this will be the ground. As your arms push the box with 15N in one direction, your feet will push the ground with 15N in the other, and since the ground will then be exerting 15N in one direction and the box exerting 15N in the other, those forces will balance out, and you will push the box in one direction and the earth (immeasurably) in the other.
+
+11) The rock and the pillow will be traveling at the same speed when they hit the ground. However, when the rock hits you it will stop much more quickly than the pillow, which is soft and will bounce around when it hits you, the net effect of which is a slower change in velocity, which means a smaller acceleration. This means the acceleration on the rock will be larger than that on the pillow, and since F=ma, and the mass is the same for both objects, the force exerted on both objects (your body and the falling mass) will be less in the case of the pillow than that in the case of the rock.
+
+12) Heavy objects experience a greater pull due to gravity. The reason they still accelerate at the same rate as other object is because F=ma. For an object A which is twice as heavy as an object B, The force due to gravity on A is twice that on B, but the mass on A is also twice that on B, so the equation balances and the acceleration stays the same.
+
+Multiple Choice
+
+1) C
+3) A
+5) C
+7) C
+9) A
+11) E
+13) A
