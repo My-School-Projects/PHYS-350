@@ -1,0 +1,35 @@
+Conceptual Questions
+1)
+  (b) the surface does negative work on the box
+
+2) ?
+  Yes, the total work during a displacement can be negative if the object is decelerated. The magnitude of the work can be greater than the initial kinetic energy if the object ends up with a negative velocity.
+
+3)
+  False. Even though their speed is the same, the kinetic energy of the oxygen molecule is higher because it has more mass.
+
+5)
+  The work done on the satellite in one full orbit is 0, because the satellite will return to the same place, making the displacement 0.
+
+7)
+  Its speed will be the same once it comes back to the bottom of the incline.
+
+9) ?
+  The child's speed will be the same at the bottom of all three slides.
+
+11)
+  The car's kinetic energy changes more from 15mph to 20mph than from 10mph to 15mph, because assuming constant acceleration the change in distance is greater for the former, or, assuming constant change in distance, the acceleration is greater for the former.
+
+Multiple Choice Questions
+1)
+  B. 4U/9
+3) ?
+  C. Neither, they both have the same speed at the bottom.
+5)
+  B. If the work done on an object by a force is zero, then either the force or the displacement must have zero magnitude.
+7)
+  B. Both objects will have the same kinetic energy when they reach the ground.
+  D. Both objects will accelerate toward the ground at the same rate.
+
+9) ?
+  E. sqrt(2):1
